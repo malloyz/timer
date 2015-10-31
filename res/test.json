@@ -1,0 +1,667 @@
+{
+  "ID": "c1af156e-51e8-479a-aade-9f9bab75c62f",
+  "Version": "2.3.1.1",
+  "Name": "test",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 23,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "重置",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 824.0,
+              "Y": 79.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8583,
+              "Y": 0.1234
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0562
+            },
+            "LeftMargin": 774.0,
+            "RightMargin": 86.0,
+            "TopMargin": 543.0,
+            "BottomMargin": 61.0,
+            "Tag": 24,
+            "ActionTag": 1064070929,
+            "Size": {
+              "X": 100.0,
+              "Y": 36.0
+            },
+            "Name": "_resetButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "开始",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 824.0,
+              "Y": 149.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8583,
+              "Y": 0.2328
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0562
+            },
+            "LeftMargin": 774.0,
+            "RightMargin": 86.0,
+            "TopMargin": 473.0,
+            "BottomMargin": 131.0,
+            "Tag": 25,
+            "ActionTag": 1985267643,
+            "Size": {
+              "X": 100.0,
+              "Y": 36.0
+            },
+            "Name": "_startButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "Timer",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 264.0,
+              "Y": 497.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.275,
+              "Y": 0.7766
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 226.5,
+            "RightMargin": 658.5,
+            "TopMargin": 128.0,
+            "BottomMargin": 482.0,
+            "Tag": 26,
+            "ActionTag": 606312442,
+            "Size": {
+              "X": 75.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "回调次数",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 394.0,
+              "Y": 497.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4104,
+              "Y": 0.7766
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 334.0,
+            "RightMargin": 506.0,
+            "TopMargin": 128.0,
+            "BottomMargin": 482.0,
+            "Tag": 27,
+            "ActionTag": 26966242,
+            "Size": {
+              "X": 120.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "0",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 474.0,
+              "Y": 497.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4938,
+              "Y": 0.7766
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 474.0,
+            "RightMargin": 471.0,
+            "TopMargin": 128.0,
+            "BottomMargin": 482.0,
+            "Tag": 28,
+            "ActionTag": 1072077459,
+            "Size": {
+              "X": 15.0,
+              "Y": 30.0
+            },
+            "Name": "_timerCallBackCountText",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "CountDownTimer",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.5,
+              "Y": 417.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3141,
+              "Y": 0.6516
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 91.5,
+            "RightMargin": 658.5,
+            "TopMargin": 208.0,
+            "BottomMargin": 402.0,
+            "Tag": 29,
+            "ActionTag": 2109918942,
+            "Size": {
+              "X": 210.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "00:00:00",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 334.0,
+              "Y": 417.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3479,
+              "Y": 0.6516
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 334.0,
+            "RightMargin": 506.0,
+            "TopMargin": 208.0,
+            "BottomMargin": 402.0,
+            "Tag": 30,
+            "ActionTag": -467424329,
+            "Size": {
+              "X": 120.0,
+              "Y": 30.0
+            },
+            "Name": "_countDownTimeText",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "CalcTimer",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.5,
+              "Y": 337.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3141,
+              "Y": 0.5266
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 166.5,
+            "RightMargin": 658.5,
+            "TopMargin": 288.0,
+            "BottomMargin": 322.0,
+            "Tag": 31,
+            "ActionTag": 1639793410,
+            "Size": {
+              "X": 135.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "00:00:00",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 334.0,
+              "Y": 337.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3479,
+              "Y": 0.5266
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 334.0,
+            "RightMargin": 506.0,
+            "TopMargin": 288.0,
+            "BottomMargin": 322.0,
+            "Tag": 32,
+            "ActionTag": -39431446,
+            "Size": {
+              "X": 120.0,
+              "Y": 30.0
+            },
+            "Name": "_calcTimeText",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 30,
+            "LabelText": "QuantumTimer",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 301.5,
+              "Y": 257.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3141,
+              "Y": 0.4016
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 121.5,
+            "RightMargin": 658.5,
+            "TopMargin": 368.0,
+            "BottomMargin": 242.0,
+            "Tag": 33,
+            "ActionTag": 560812630,
+            "Size": {
+              "X": 180.0,
+              "Y": 30.0
+            },
+            "Name": "Text_1_1_0_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "ProgressInfo": 0,
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.0,
+              "Y": 257.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4542,
+              "Y": 0.4016
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 336.0,
+            "RightMargin": 424.0,
+            "TopMargin": 376.0,
+            "BottomMargin": 250.0,
+            "Tag": 34,
+            "ActionTag": 586847899,
+            "Size": {
+              "X": 200.0,
+              "Y": 14.0
+            },
+            "Name": "_quantumLoadingBar",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.0,
+              "Y": 257.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4542,
+              "Y": 0.4016
+            },
+            "PreSize": {
+              "X": 0.2083,
+              "Y": 0.0219
+            },
+            "LeftMargin": 336.0,
+            "RightMargin": 424.0,
+            "TopMargin": 376.0,
+            "BottomMargin": 250.0,
+            "Tag": 36,
+            "ActionTag": -1376009257,
+            "Size": {
+              "X": 200.0,
+              "Y": 14.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Default/LoadingBarFile.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
